@@ -1,4 +1,4 @@
-# NLP--Sentiment-Analysis
+# NLP-Sentiment-Analysis
 This project implements a text classifier to identify sentiment in a dataset of approximately 27,000 entries, split into 80% training and 20% testing. The classifier is trained using LinearSVC and evaluated through cross-validation and error analysis.
 
 # Data Preprocessing
